@@ -1,6 +1,5 @@
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
-import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib import rcParams
 import pandas as pd
